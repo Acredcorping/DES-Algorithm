@@ -286,7 +286,3 @@ def start():
     app = QApplication(sys.argv)
     ex = GUI()
     sys.exit(app.exec())
-
-
-if __name__ == '__main__':
-    start()
